@@ -94,7 +94,7 @@
     "react-test-renderer": "~16.9.0",
     "webpack": "^4.42.0",
     "webpack-cli": "^3.3.11",
-    "webpack-dev-server": "^1.16.1"
+    "webpack-dev-server": "^3.1.11"
   },
   "private": true,
   "proxy": "http://localhost:3002",
